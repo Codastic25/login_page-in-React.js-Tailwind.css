@@ -15,5 +15,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-
+Output of the project :
 <img width="1267" height="1479" alt="login_page_react" src="https://github.com/user-attachments/assets/c23584a0-7a37-4b25-bbd6-35c94e84f33f" />
